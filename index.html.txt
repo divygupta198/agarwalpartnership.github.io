@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Agarwal Partnership - Investment Solutions for High Net Worth Individuals (HNI)">
+    <title>Agarwal Partnership | Investment Solutions for HNIs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #1b263b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #475b83;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        section {
+            padding: 40px;
+            max-width: 1200px;
+            margin: auto;
+        }
+        section h2 {
+            color: #1b263b;
+        }
+        footer {
+            background-color: #1b263b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .cta {
+            background-color: #f39c12;
+            padding: 15px 30px;
+            color: white;
+            text-align: center;
+            display: inline-block;
+            margin-top: 20px;
+            font-size: 1.2em;
+            text-decoration: none;
+        }
+        .cta:hover {
+            background-color: #e67e22;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Agarwal Partnership</h1>
+        <p>Expert Investment Solutions for High Net Worth Individuals</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Our Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Agarwal Partnership</h2>
+        <p>At Agarwal Partnership, we specialize in providing tailored investment solutions for High Net Worth Individuals (HNIs). With a philosophy inspired by Warren Buffet, we focus on long-term value investing, delivering consistent results that build wealth for our clients. Our team of experienced professionals ensures personalized guidance, aligning with your financial goals to help you secure a prosperous future.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Investment Portfolio Management</li>
+            <li>Wealth Growth & Preservation Strategies</li>
+            <li>Risk Management & Asset Allocation</li>
+            <li>Tax-efficient Investment Solutions</li>
+            <li>Retirement & Estate Planning</li>
+        </ul>
+        <a href="#contact" class="cta">Contact Us for Personalized Solutions</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Ready to take your investments to the next level? Get in touch with us today for a personalized consultation.</p>
+        <p>Email: <a href="mailto:contact@agarwalpartnership.com">contact@agarwalpartnership.com</a></p>
+        <p>Phone: +91-123-456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Agarwal Partnership. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
